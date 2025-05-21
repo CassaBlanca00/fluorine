@@ -16,7 +16,7 @@ No gameplay features are changed — this is a fully client-side performance enh
 ## 🛠️ Installation
 
 1. Install [Fabric Loader](https://fabricmc.net/use/) for Minecraft 1.21.5
-2. Download the latest version of Fluorium (`fluorium-x.x.x.jar`)
+2. Download the latest version of Fluorine (`fluorine-x.x.x.jar`)
 3. Drop it into your `.minecraft/mods/` folder
 4. Launch the game and enjoy smoother performance
 
