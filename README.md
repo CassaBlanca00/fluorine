@@ -1,6 +1,6 @@
-# Fluorium
+# Fluorine
 
-**Fluorium** is a lightweight performance optimization mod for Minecraft 1.21.5.
+**Fluorine** is a lightweight performance optimization mod for Minecraft 1.21.5.
 
 It focuses on reducing unnecessary CPU and RAM usage by improving internal processes and enabling advanced **Entity Culling** techniques.  
 No gameplay features are changed — this is a fully client-side performance enhancer.
@@ -27,8 +27,8 @@ See the [LICENSE](./LICENSE) file for full details.
 
 ## 👨‍💻 Developer Info
 
-- Mod ID: `fluorium`
-- Package: `net.cassablanca00.fluorium`
+- Mod ID: `fluorine`
+- Package: `net.cassablanca00.fluorine`
 - Developed by: **Buğra (aka Cassablanca00)**
 
 ## 💬 Contributions
